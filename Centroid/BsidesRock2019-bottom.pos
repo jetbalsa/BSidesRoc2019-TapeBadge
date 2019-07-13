@@ -1,0 +1,19 @@
+### Module positions - created on 01/12/19 13:16:09 ###
+### Printed by Pcbnew version kicad (5.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref        Val                                  Package                                           PosX       PosY       Rot  Side
+BT-2032-1    Battery_Cell                         BatteryHolder_Keystone_3034_1x20mm           -175.8950   -87.6300    0.0000  bottom
+BT-2032-2    Battery_Cell                         BatteryHolder_Keystone_3034_1x20mm           -116.9670   -87.6300    0.0000  bottom
+R56-Ohm1     R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -125.4760   -59.6900   90.0000  bottom
+R56-Ohm2     R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -133.8580   -59.5630   90.0000  bottom
+R56-Ohm3     R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -129.4130   -55.6260    0.0000  bottom
+R56-Ohm4     R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -129.4130   -79.3750    0.0000  bottom
+R56-Ohm5     R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -129.6670   -63.1190    0.0000  bottom
+R56-Ohm6     R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -162.8140   -79.3750    0.0000  bottom
+R56-Ohm7     R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -158.6230   -59.6900   90.0000  bottom
+R56-Ohm8     R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -162.0520   -55.7530    0.0000  bottom
+R56-Ohm9     R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -162.3060   -63.5000    0.0000  bottom
+R56-Ohm10    R_Small                              R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -166.2430   -59.4360  270.0000  bottom
+SMDPROGCONN  PinSocket_2x04_P1.27mm_Vertical_SMD  PinSocket_2x04_P1.27mm_Vertical_SMD          -146.0500   -57.6580    0.0000  bottom
+## End
